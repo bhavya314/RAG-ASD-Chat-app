@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+/venv/
+
+# Environment variables
+# Never commit this file!
+.env
+
+# Cleaned data directory
+/cleaned_texts/
+
+# Jupyter Notebooks & Checkpoints
+test.ipynb
+.ipynb_checkpoints/
+
